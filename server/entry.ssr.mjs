@@ -1,1 +1,1 @@
-import"@builder.io/qwik";import"@builder.io/qwik/server";import{r as a}from"./assets/entry.ssr-441fa84f.mjs";import"./assets/index.qwik-b5ce703c.mjs";import"@builder.io/qwik/jsx-runtime";export{a as default};
+import"@builder.io/qwik";import"@builder.io/qwik/server";import{r as i}from"./assets/entry.ssr-bcfaf4cd.mjs";import"./assets/index.qwik-dee8be81.mjs";export{i as default};
