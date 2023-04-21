@@ -1,1 +1,0 @@
-import{p as d,d as l,j as n}from"./q-a2df053c.js";const i=()=>d(n,{children:l("div",null,null,l("embed",{style:{width:"100vw",height:"100vh"}},{src:"/ch3-hindi.pdf",type:"application/pdf"},null,3,null),1,null)},1,"0y_0");export{i as s_X2IARVKdsXs};

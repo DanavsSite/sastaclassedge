@@ -1,1 +1,0 @@
-import{F as o,G as t,_ as e}from"./q-a2df053c.js";const _=o(t(()=>e(()=>import("./q-afda9228.js"),["build/q-afda9228.js","build/q-a2df053c.js","build/q-d88cf5ad.js"]),"s_PxZ05oEiFy8")),r={title:"Qwik Flower"};export{_ as default,r as head};
